@@ -128,7 +128,7 @@ class Footer extends Component {
                                         </li>
                                         <li>
                                             <i className="icofont-envelope"></i> 
-                                            <a href="mailto:hello@pungent.com">hello@pungent.com</a>
+                                            <a href="mailto:hello@pungent.com">hello@collabadda.com</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -138,7 +138,7 @@ class Footer extends Component {
 
                     <div className="copyright-area">
                         <div className="container">
-                            <p>Copyright &copy; {currentYear} Pungent. All Rights Reserved By <a href="https://envytheme.com" target="_blank">EnvyTheme</a></p>
+                            <p>Copyright &copy; {currentYear} Collabadda. All Rights Reserved By <a href="#" target="_blank">Collabadda</a></p>
                         </div>
                     </div>
                 </footer>
