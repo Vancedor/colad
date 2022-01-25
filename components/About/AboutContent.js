@@ -38,7 +38,7 @@ class About extends Component {
                                 <div className="about-content about-content-two">
                                     <div className="section-title">
                                         <h2>About Us</h2>
-                                        <p>Lorem ipsum dolor sit amet, con se ctetur adipiscing elit. In sagittis eg esta ante, sed viverra nunc tinci dunt nec elei fend et tiram.</p>
+                                        <p>Collab Adda. After so many attempts.</p>
                                     </div>
 
                                     <div className="about-text">
