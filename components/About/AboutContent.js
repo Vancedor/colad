@@ -43,12 +43,12 @@ class About extends Component {
 
                                     <div className="about-text">
                                         <h4>Who We Are</h4>
-                                        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis..</p>
+                                        <p>We are emerging marketing solution Agency. We do things differently than what every marketer might think. We create what everyone wants to have a look..</p>
                                     </div>
 
                                     <div className="about-text">
                                         <h4>Our History</h4>
-                                        <p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the.</p>
+                                        <p>We are in the market sice 2019. But we are no ameture in the field. We worked with reputed brands like Rizzle, Chingari & Amazon. We already surpassed the 1L+ bench mark in influencer management.</p>
                                     </div>
 
                                     <div className="about-text">
@@ -56,15 +56,15 @@ class About extends Component {
                                         <ul>
                                             <li>
                                                 <i className="pe-7s-check"></i> 
-                                                Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                                We were, are and will be determined for changing digital and marketing agency for one and whole..
                                             </li>
                                             <li>
                                                 <i className="pe-7s-check"></i> 
-                                                It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+                                                We create content that everyone wants to look and serve as a platform for brands to showcase there ethics and morales in the best way.
                                             </li>
                                             <li>
                                                 <i className="pe-7s-check"></i> 
-                                                Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature.
+                                                We beleive in mutual prosperity so we work close with our team to serve the best in the most efficient manner. Now with us brands can lead there way up wihtout wandering around marketing problems.
                                             </li>
                                         </ul>
                                     </div>
