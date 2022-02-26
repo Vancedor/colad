@@ -43,30 +43,30 @@ class Feedback extends Component {
                             {...options}
                         >
                             <div className="single-feedback">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
+                                <p>Collabadda is one the creative and sweetest company, we work with.</p>
 
                                 <div className="bar"></div>
 
-                                <h3>John Smith</h3>
-                                <span>CEO & Founder, Envato</span>
+                                <h3>Shivani Sharma</h3>
+                                <span>Rizzle.</span>
                             </div>
 
                             <div className="single-feedback">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
+                                <p>Collabadda have best creative and sharp minds, who can execute impossible task in a very efficient way.</p>
 
                                 <div className="bar"></div>
 
-                                <h3>Oliver Smith</h3>
-                                <span>React JS Specialist</span>
+                                <h3>Twinkle Luthra</h3>
+                                <span>Rizzle</span>
                             </div>
 
                             <div className="single-feedback">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
+                                <p>Collabadda is best in providing efficient yet effective marketing solution along with personal consultation. Always gratefull to work with such an organizationn.</p>
 
                                 <div className="bar"></div>
                                 
-                                <h3>Thomas John</h3>
-                                <span>Angular JS Specialist</span>
+                                <h3>Aakash Singh</h3>
+                                <span>Founder & CEO, Blazar Technologies</span>
                             </div>
                         </OwlCarousel> : ''}
                     </div>
