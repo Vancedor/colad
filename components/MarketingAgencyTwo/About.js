@@ -38,12 +38,13 @@ class About extends Component {
                                 <div className="about-content about-content-two">
                                     <div className="section-title">
                                         <h2>About Us</h2>
-                                        <p>Lorem ipsum dolor sit amet, con se ctetur adipiscing elit. In sagittis eg esta ante, sed viverra nunc tinci dunt nec elei fend et tiram.</p>
+                                        <p>We are emerging Influencer Marketing Company, established in 2019. We try to perform what everyone needed to be performed. We provide solutions for each marketing problem.</p>
                                     </div>
 
                                     <div className="about-text">
                                         <h4>Who We Are</h4>
-                                        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+                                        <p>Collabadda is a growing Publicist Marketing Agency started in mid 2020,  we are a young digital marketing platform to connect brands with social media influencers. 
+We help your brand to be seen at scale, across all social media platforms; driving your growth and helping in your success journey.</p>
                                     </div>
 
                                     <div className="about-text">
@@ -51,22 +52,22 @@ class About extends Component {
                                         <ul>
                                             <li>
                                                 <i className="pe-7s-check"></i> 
-                                                Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                                We have 100k+ Influencer base. With active and increasing engagement.
                                             </li>
                                             <li>
                                                 <i className="pe-7s-check"></i> 
-                                                It is a long established fact that a reader will be distracted by the readable.
+                                                We are recognised as one of the fastest growing Influencer Marketing Agency.
                                             </li>
                                             <li>
                                                 <i className="pe-7s-check"></i> 
-                                                Contrary to popular belief, Lorem Ipsum is not simply random text.
+                                                We have collaborations with well known Celebrities.
                                             </li>
                                         </ul>
                                     </div>
 
                                     <div className="about-text">
                                         <h4>Our Mission</h4>
-                                        <p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth.</p>
+                                        <p>CollabAdda aims to be the best influencer marketing company in India that is a one stop solution for brands as well as influencers. We aim to bring brands closer to their goals through “Word of Mouth” from the most influential figures today.</p>
                                     </div>
                                 </div>
                             </div>
