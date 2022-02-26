@@ -38,21 +38,21 @@ class FeedbackTwo extends Component {
                         {...options}
                     >
                         <div className="quotes-content">
-                            <p>Design is not just what it looks like and feels like. Design is how it works.</p>
+                            <p>Marketing is not just what it looks like and feels like. Marketing is how it works.</p>
                             <h3>Steve Jobs</h3>
                             <span>Co-founder of Apple, Inc.</span>
                         </div>
 
                         <div className="quotes-content">
-                            <p>Design is not just what it looks like and feels like. Design is how it works.</p>
-                            <h3>Charlie</h3>
-                            <span>Co-founder of 3S, Inc.</span>
+                            <p>The best marketing doesn't feel like Marketing.</p>
+                            <h3>Tom Fishburne</h3>
+                            <span>Co-founder of SocialChamp, Inc.</span>
                         </div>
 
                         <div className="quotes-content">
-                            <p>Design is not just what it looks like and feels like. Design is how it works.</p>
-                            <h3>Amelia</h3>
-                            <span>Co-founder of Envato, Inc.</span>
+                            <p>Content is King.</p>
+                            <h3>Bill Gates</h3>
+                            <span>Co-founder of Microsoft</span>
                         </div>
                     </OwlCarousel> : ''}
                 </div>
