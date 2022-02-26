@@ -104,7 +104,7 @@ class MainBanner extends Component {
                                                     isVisible ? "animated fadeInUp opacityOne" : 'opacityZero'
                                                     }
                                                 >
-                                                    Digital Marketing
+                                                    Influencer Marketing
                                                 </h1>
                                                  
                                                 <p
@@ -112,7 +112,7 @@ class MainBanner extends Component {
                                                         isVisible ? "animated fadeInUp opacityOne" : 'opacityZero'
                                                     }
                                                 >
-                                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                                                    Influencer marketing is a type of social media marketing that uses endorsements and product mentions from influencers–individuals who have a dedicated social following and are viewed as experts within their niche.
                                                 </p>
                                          
                                                 <div 
@@ -159,7 +159,7 @@ class MainBanner extends Component {
                                                     isVisible ? "animated fadeInUp opacityOne" : 'opacityZero'
                                                     }
                                                 >
-                                                    Marketing Startup
+                                                    Youth Marketing
                                                 </h1>
                                                  
                                                 <p
@@ -167,7 +167,7 @@ class MainBanner extends Component {
                                                         isVisible ? "animated fadeInUp opacityOne" : 'opacityZero'
                                                     }
                                                 >
-                                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                                                    We're Youth a marketing agency focused on using guerrilla techniques like brand ambassadors, school/college events street teams & spring break promotions.
                                                 </p>
                                          
                                                 <div 
@@ -214,7 +214,7 @@ class MainBanner extends Component {
                                                     isVisible ? "animated fadeInUp opacityOne" : 'opacityZero'
                                                     }
                                                 >
-                                                    Marketing agency
+                                                    One Stop Solution
                                                 </h1>
                                                  
                                                 <p
@@ -222,7 +222,7 @@ class MainBanner extends Component {
                                                         isVisible ? "animated fadeInUp opacityOne" : 'opacityZero'
                                                     }
                                                 >
-                                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                                                    We provide one stop solutions for all your marketing and technology  related issues.
                                                 </p>
                                          
                                                 <div 
