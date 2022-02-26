@@ -9,7 +9,7 @@ class OurWorks extends Component {
                     <div className="container">
                         <div className="section-title">
                             <h2>Our Projects</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                            <p>Some of our reowned works..</p>
                         </div>
 
                         <div className="row justify-content-center">
@@ -20,13 +20,13 @@ class OurWorks extends Component {
                                     <div className="content">
                                         <span>
                                             <Link href="/portfolio-details">
-                                                <a>SEO Optimization</a>
+                                                <a>Theoly</a>
                                             </Link>
                                         </span>
 
                                         <h3>
                                             <Link href="/portfolio-details">
-                                                <a>Designing a better cinema experience</a>
+                                                <a>Fashion Influencers & giveaways</a>
                                             </Link>
                                         </h3>
 
@@ -43,13 +43,13 @@ class OurWorks extends Component {
                                     <div className="content">
                                         <span>
                                             <Link href="/portfolio-details">
-                                                <a>Digital Marketing</a>
+                                                <a>Nutrienlife</a>
                                             </Link>
                                         </span>
 
                                         <h3>
                                             <Link href="/portfolio-details">
-                                                <a>Building design process within teams</a>
+                                                <a>Influencer Marketing & Indian Amazon Marketing</a>
                                             </Link>
                                         </h3>
 
@@ -67,13 +67,13 @@ class OurWorks extends Component {
                                     <div className="content">
                                         <span>
                                             <Link href="/portfolio-details">
-                                                <a>Keyword Targeting</a>
+                                                <a>Rizzle</a>
                                             </Link>
                                         </span>
 
                                         <h3>
                                             <Link href="/portfolio-details">
-                                                <a>How intercom brings play into their design process</a>
+                                                <a>Influencer Marketing & Youth Marketing</a>
                                             </Link>
                                         </h3>
 
@@ -91,13 +91,13 @@ class OurWorks extends Component {
                                     <div className="content">
                                         <span>
                                             <Link href="/portfolio-details">
-                                                <a>Email Marketing</a>
+                                                <a>Ban Labs</a>
                                             </Link>
                                         </span>
 
                                         <h3>
                                             <Link href="/portfolio-details">
-                                                <a>Stuck with to-do list, I created a new app for myself</a>
+                                                <a>Use Amazon Services</a>
                                             </Link>
                                         </h3>
 
@@ -115,13 +115,13 @@ class OurWorks extends Component {
                                     <div className="content">
                                         <span>
                                             <Link href="/portfolio-details">
-                                                <a>Marketing & Reporting</a>
+                                                <a>Boby Alchemy</a>
                                             </Link>
                                         </span>
 
                                         <h3>
                                             <Link href="/portfolio-details">
-                                                <a>Examples of different types of sprints</a>
+                                                <a>Indian Amazon Marketing</a>
                                             </Link>
                                         </h3>
 
@@ -139,13 +139,13 @@ class OurWorks extends Component {
                                     <div className="content">
                                         <span>
                                             <Link href="/portfolio-details">
-                                                <a>Development</a>
+                                                <a>Chingari</a>
                                             </Link>
                                         </span>
 
                                         <h3>
                                             <Link href="/portfolio-details">
-                                                <a>Redesigning the New York times app</a>
+                                                <a>App Downloads</a>
                                             </Link>
                                         </h3>
 
