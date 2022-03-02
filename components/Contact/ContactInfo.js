@@ -12,8 +12,8 @@ class ContactInfo extends Component {
                                     <i className="pe-7s-mail"></i>
                                 </div>
                                 <h3>Mail Here</h3>
-                                <p><a href="mailto:admin@pungent.com">admin@pungent.com</a></p>
-                                <p><a href="mailto:info@pungent.com">info@pungent.com</a></p>
+                                <p><a href="mailto:abhinav@collabadda.org">abhinav@collabadda.org</a></p>
+                                <p><a href="mailto:admin@collabadda.org">admin@collabadda.org</a></p>
                             </div>
                         </div>
 
@@ -23,7 +23,7 @@ class ContactInfo extends Component {
                                     <i className="pe-7s-map-2"></i>
                                 </div>
                                 <h3>Visit Here</h3>
-                                <p>27 Division St, New York, <br /> NY 10002, USA</p>
+                                <p>27 1st Floor, Landmark, Cyber park, Gurugram, <br /> Haryana 122101, India</p>
                             </div>
                         </div>
 
@@ -33,8 +33,8 @@ class ContactInfo extends Component {
                                     <i className="pe-7s-call"></i>
                                 </div>
                                 <h3>Call Here</h3>
-                                <p><a href="+1234567890">+123 456 7890</a></p>
-                                <p><a href="+2414524526">+241 452 4526</a></p>
+                                <p><a href="+918382953422">+918 3829 53422</a></p>
+                                <p><a href="+918177030549">+918 1770 30549</a></p>
                             </div>
                         </div>
                     </div>
