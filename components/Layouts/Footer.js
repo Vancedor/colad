@@ -21,29 +21,34 @@ class Footer extends Component {
                                         </Link>
                                     </div>
 
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                    <p>An agency which runs on simplicity, India's fastest growing Publicist Marketing Agency</p>
 
                                     <ul className="social-links">
                                         <li>
-                                            <a href="https://www.facebook.com/" target="_blank">
-                                                <i className="icofont-facebook"></i>
+                                            <a href="https://t.me/joinchat/QuuUtxm_Ao0FuB7RK2bkzA" target="_blank">
+                                                <i className="icofont-telegram"></i>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="https://twitter.com/" target="_blank">
+                                            <a href="https://www.twitter.com/collabadda" target="_blank">
                                                 <i className="icofont-twitter"></i>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="linkedin.com" target="_blank">
+                                            <a href="https://www.linkedin.com/company/collabadda/" target="_blank">
                                                 <i className="icofont-linkedin"></i>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="https://www.instagram.com/" target="_blank">
+                                            <a href="https://www.instagram.com/collabadda/" target="_blank">
                                                 <i className="icofont-instagram"></i>
                                             </a>
                                         </li> 
+                                           <li>
+                                            <a href="http://Wa.me/+918177030549" target="_blank">
+                                                <i className="icofont-whatsapp"></i>
+                                            </a>
+                                        </li>
                                     </ul>
                                 </div>
                             </div>
@@ -121,14 +126,14 @@ class Footer extends Component {
                                     <h3>Get in Touch</h3>
 
                                     <ul className="get-in-touch">
-                                        <li><i className="icofont-home"></i> 2750 Quadra Street Victoria, Canada.</li>
+                                        <li><i className="icofont-home"></i> 1st Floor, Landmark, Sector 67, Gurugram, Haryana</li>
                                         <li>
                                             <i className="icofont-live-support"></i> 
-                                            <a href="tel:+324-9442-515">+324-9442-515</a>
+                                            <a href="tel:+918382953422">+918-3829-53422</a>
                                         </li>
                                         <li>
                                             <i className="icofont-envelope"></i> 
-                                            <a href="mailto:hello@pungent.com">hello@collabadda.com</a>
+                                            <a href="mailto:abhinav@collabadda.org">abhinav@collabadda.org</a>
                                         </li>
                                     </ul>
                                 </div>
