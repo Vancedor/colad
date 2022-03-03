@@ -26,12 +26,12 @@ class FaqContent extends Component {
                                         <AccordionItem uuid="a">
                                             <AccordionItemHeading>
                                                 <AccordionItemButton>
-                                                    What access do I have on the free plan?
+                                                    What is Influencer Marketing?
                                                 </AccordionItemButton>
                                             </AccordionItemHeading>
                                             <AccordionItemPanel>
                                                 <p>
-                                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type.
+                                                    Influencer marketing is a type of social media marketing that uses endorsements and product mentions from influencers–individuals who have a dedicated social following and are viewed as experts within their niche.
                                                 </p>
                                             </AccordionItemPanel>
                                         </AccordionItem>
@@ -39,12 +39,12 @@ class FaqContent extends Component {
                                         <AccordionItem uuid="b">
                                             <AccordionItemHeading>
                                                 <AccordionItemButton>
-                                                    What access do I have on a free trial?
+                                                   What is Digital Marketing?
                                                 </AccordionItemButton>
                                             </AccordionItemHeading>
                                             <AccordionItemPanel>
                                                 <p>
-                                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type.
+                                                    Any marketing that uses electronic devices to convey promotional messaging and measure its impact.
                                                 </p>
                                             </AccordionItemPanel>
                                         </AccordionItem>
@@ -52,12 +52,12 @@ class FaqContent extends Component {
                                         <AccordionItem uuid="c">
                                             <AccordionItemHeading>
                                                 <AccordionItemButton>
-                                                    Does the price go up as my team gets larger?
+                                                    How much I can Earn as a Influencer?
                                                 </AccordionItemButton>
                                             </AccordionItemHeading>
                                             <AccordionItemPanel>
                                                 <p>
-                                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type.
+                                                    It all depends on your potential and creativity. On an average an influencer earn 10k - 15k each week.
                                                 </p>
                                             </AccordionItemPanel>
                                         </AccordionItem>
@@ -65,12 +65,12 @@ class FaqContent extends Component {
                                         <AccordionItem uuid="d">
                                             <AccordionItemHeading>
                                                 <AccordionItemButton>
-                                                    How can I cancel/pause my subscription?
+                                                    How much recognition does a brand can get?
                                                 </AccordionItemButton>
                                             </AccordionItemHeading>
                                             <AccordionItemPanel>
                                                 <p>
-                                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type.
+                                                    It depends on the size of campaigns run on behalf of a Brand. On an average a brand can get reach of 1M+ in a day.
                                                 </p>
                                             </AccordionItemPanel>
                                         </AccordionItem>
@@ -78,12 +78,12 @@ class FaqContent extends Component {
                                         <AccordionItem uuid="e">
                                             <AccordionItemHeading>
                                                 <AccordionItemButton>
-                                                    Can I pay via an invoice?
+                                                    How can I contact you?
                                                 </AccordionItemButton>
                                             </AccordionItemHeading>
                                             <AccordionItemPanel>
                                                 <p>
-                                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type.
+                                                     Follow us on instagram, and fill the contact us form below.
                                                 </p>
                                             </AccordionItemPanel>
                                         </AccordionItem>
