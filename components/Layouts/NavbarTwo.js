@@ -70,11 +70,11 @@ class NavbarTwo extends Component {
 
                                        
                                             
-                                        /*        <Link href="/creative-agency" activeClassName="active">
+                                               <Link href="/creative-agency" activeClassName="active">
                                                     <a className="nav-link">Creative Agency</a>
-                                                </Link> */
+                                                </Link> 
                                           
-                                              /*  <Link href="/it-agency" activeClassName="active">
+                                               <Link href="/it-agency" activeClassName="active">
                                                     <a className="nav-link">IT Agency</a>
                                                 </Link>
                                            
@@ -133,7 +133,7 @@ class NavbarTwo extends Component {
                                                 </Link>
                                             </li>
                                         </ul>
-                                    </li>    */
+                                    </li>    
 
                                     <li className="nav-item">
                                         <Link href="#">
