@@ -12,7 +12,7 @@ class Services2 extends Component {
                 <NavbarTwo />
                 
                 <PageBanner 
-                    pageTitle="Services Style 2" 
+                    pageTitle="Services Offered" 
                     BGImage="bg-two"
                 />  
 
