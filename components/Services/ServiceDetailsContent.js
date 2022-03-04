@@ -44,27 +44,27 @@ class ServiceDetailsContent extends Component {
 
                             <div className="col-lg-8 col-md-12">
                                 <div className="services-details-desc">
-                                    <h2>Services Description</h2>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.</p>
+                                    <h2>Service Description</h2>
+                                    <p>Influencer marketing is a type of marketing that uses influencers to promote a brand to a larger market. Influencers are opinion leaders with a social following base. They appear as experts or trustworthy sources of information.</p>
 
-                                    <p>ed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia.</p>
+                                    <p>Influencer marketing is closely related to social media marketing, as most opinion leaders gather their audience from social platforms. This channel gives you access to an enormous audience – half of the global population uses social networks.</p>
 
-                                    <p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter.</p>
+                                    <p>Better yet, influencer marketing enables you to reach people you can't attain through traditional advertising. Two-thirds of consumers use ad blockers, but the same people willingly take advice from influencers. 80% of users have purchased something based on an influencer’s recommendation.</p>
 
-                                    <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis.</p>
+                                    <p>Brands that already employ influencer marketing have proven the effectiveness of this channel. 89% of marketers say that ROI from influencer marketing is comparable to or better than other marketing channels. It’s no wonder that 17% of companies spend over half of their marketing budget on influencers.</p>
                                 </div>
                             </div>
 
                             <div className="col-lg-4 col-md-12">
                                 <div className="services-details-info">
-                                    <h3>Our Working Process</h3>
+                                    <h3>Our Working Approach</h3>
                                     <ul>
-                                        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</li>
-                                        <li>Creative Team Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</li>
-                                        <li>Branding But I must explain to you how all this mistaken idea of denouncing.</li>
-                                        <li>Clean Code At vero eos et accusamus et iusto odio dignissimos ducimus qui.</li>
-                                        <li>UX/UI Friendly On the other hand, we denounce with righteous indignation.</li>
-                                        <li>24/7 Support There are many variations of passages of Lorem Ipsum available.</li>
+                                        <li>Brand awareness growth...</li>
+                                        <li>Content strategy enrichment...</li>
+                                        <li>Quality lead generation...</li>
+                                        <li>Cost-effectiveness...</li>
+                                        <li>Precise and efficient Execution...</li>
+                                        <li>Partying Hard after every successfull Campaign...</li>
                                     </ul>
                                 </div>
                             </div>
