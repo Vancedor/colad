@@ -36,7 +36,7 @@ class TermsConditions extends Component {
     <li>Redistribute content from www.collabadda.in</li>
 </ul>
                         
-                        <p>collabadda pvt ltd reserves the right to monitor all Comments and to remove any Comments which can be considered inappropriate, offensive or causes breach of these Terms and Conditions.
+                        <p>collabadda pvt ltd reserves the right to monitor all Comments and to remove any Comments which can be considered inappropriate, offensive or causes breach of these Terms and Conditions.</p>
                     </div>
                 </div>
 
