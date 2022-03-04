@@ -64,9 +64,9 @@ class NavbarTwo extends Component {
                             <div className={classOne} id="navbarSupportedContent">
                                 <ul className="navbar-nav">
                                     <li className="nav-item">
-                                        <Link href="#">
-                                            <a className="nav-link" onClick={e => e.preventDefault()}>
-                                                Home <i className="icofont-thin-down"></i>
+                                        <Link href="/index.js">
+                                            <a className="nav-link">
+                                                Home 
                                             </a>
                                         </Link>
 
