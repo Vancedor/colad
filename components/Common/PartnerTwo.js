@@ -8,7 +8,7 @@ class PartnerTwo extends Component {
                 <div className="container">
                     <div className="section-title">
                         <h2>Our Loving Clients</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <p>Few of our loving clients, who trust us...</p>
                     </div>
 
                     <div className="row align-items-center justify-content-center">
