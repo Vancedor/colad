@@ -64,7 +64,7 @@ class NavbarTwo extends Component {
                             <div className={classOne} id="navbarSupportedContent">
                                 <ul className="navbar-nav">
                                     <li className="nav-item">
-                                        <Link href="/pages/index.js">
+                                        <Link href="/marketing-agency-2">
                                             <a className="nav-link">
                                                 Home 
                                             </a>
