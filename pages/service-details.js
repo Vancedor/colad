@@ -12,7 +12,7 @@ class ServiceDetails extends Component {
                 <NavbarTwo />
 
                 <PageBanner 
-                    pageTitle="Mobile App Development" 
+                    pageTitle="Services Details & Approach" 
                     BGImage="bg-one"
                 />  
 
