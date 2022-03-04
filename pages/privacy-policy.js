@@ -84,4 +84,3 @@ class PrivacyPolicy extends Component {
     }
 }
 
-export default PrivacyPolicy;
