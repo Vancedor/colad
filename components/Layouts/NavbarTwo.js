@@ -64,7 +64,7 @@ class NavbarTwo extends Component {
                             <div className={classOne} id="navbarSupportedContent">
                                 <ul className="navbar-nav">
                                     <li className="nav-item">
-                                        <Link href="/marketing-agency-2" activeClassName="active">
+                                        <Link href="/" activeClassName="active">
                                             <a className="nav-link">
                                                 Home 
                                             </a>
@@ -72,7 +72,7 @@ class NavbarTwo extends Component {
 
                                         <ul className="dropdown-menu mega-dropdown-menu">
                                             <li className="nav-item">
-                                                <Link href="/" activeClassName="active">
+                                                <Link href="#" activeClassName="active">
                                                     <a className="nav-link">Default Home</a>
                                                 </Link>
                                             
