@@ -12,7 +12,7 @@ class PortfolioDetails extends Component {
                 <NavbarTwo />
                 
                 <PageBanner 
-                    pageTitle="UX for Mobile Apps" 
+                    pageTitle="Our Service Details" 
                     BGImage="bg-two"
                 />  
                 
