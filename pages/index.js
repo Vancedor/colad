@@ -33,9 +33,9 @@ class MarketingAgency2 extends Component {
                 
                 <CtaAreaTwo />
 
-                <div className="ptb-100">
-                    <LatestNews />
-                </div>
+            //    <div className="ptb-100">
+                 //   <LatestNews />
+             //   </div>
 
                 <Footer />
             </>
