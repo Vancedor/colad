@@ -21,7 +21,7 @@ class Footer extends Component {
                                         </Link>
                                     </div>
 
-                                    <p>An agency which runs on simplicity, India's fastest growing Publicist Marketing Agency</p>
+                                    <p>We are a one stop solution marketing company for your one stop solutions.</p>
 
                                     <ul className="social-links">
                                         <li>
