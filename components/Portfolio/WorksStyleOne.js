@@ -54,7 +54,7 @@ class WorksStyleOne extends Component {
                     <div className="container-fluid">
                         <div className="section-title">
                             <h2>Our Projects</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                            <p>Few Projects on which we are proud of...</p>
                         </div>
 
                         {this.state.display ? <OwlCarousel 
@@ -67,13 +67,13 @@ class WorksStyleOne extends Component {
                                 <div className="content text-center">
                                     <span>
                                         <Link href="/portfolio">
-                                            <a>Development</a>
+                                            <a>Rizzle</a>
                                         </Link>
                                     </span>
 
                                     <h3>
                                         <Link href="/portfolio-details">
-                                            <a>Designing a better cinema experience</a>
+                                            <a>Provided PGC Creators & Giveaways</a>
                                         </Link>
                                     </h3>
 
@@ -88,13 +88,13 @@ class WorksStyleOne extends Component {
                                 <div className="content text-center">
                                     <span>
                                         <Link href="/portfolio">
-                                            <a>Web Design</a>
+                                            <a>Baazi Group</a>
                                         </Link>
                                     </span>
 
                                     <h3>
                                         <Link href="/portfolio-details">
-                                            <a>Building design process within teams</a>
+                                            <a>Twitter Marketing & MEME Marketing</a>
                                         </Link>
                                     </h3>
 
@@ -110,13 +110,13 @@ class WorksStyleOne extends Component {
                                 <div className="content text-center">
                                     <span>
                                         <Link href="/portfolio">
-                                            <a>eCommerce</a>
+                                            <a>Amazon</a>
                                         </Link>
                                     </span>
 
                                     <h3>
                                         <Link href="/portfolio-details">
-                                            <a>How intercom brings play eCommerce</a>
+                                            <a>Provided Youtube Fashion Influencers</a>
                                         </Link>
                                     </h3>
 
@@ -132,13 +132,13 @@ class WorksStyleOne extends Component {
                                 <div className="content text-center">
                                     <span>
                                         <Link href="/portfolio">
-                                            <a>Reactjs</a>
+                                            <a>Zed Black</a>
                                         </Link>
                                     </span>
 
                                     <h3>
                                         <Link href="/portfolio-details">
-                                            <a>How to start a project with Reactjs</a>
+                                            <a>Twitter Marketing</a>
                                         </Link>
                                     </h3>
 
@@ -154,13 +154,13 @@ class WorksStyleOne extends Component {
                                 <div className="content text-center">
                                     <span>
                                         <Link href="/portfolio">
-                                            <a>Angular js</a>
+                                            <a>Not So Pink</a>
                                         </Link>
                                     </span>
 
                                     <h3>
                                         <Link href="/portfolio-details">
-                                            <a>Examples of different types of sprints</a>
+                                            <a>Instagram Fashion Influencers</a>
                                         </Link>
                                     </h3>
 
@@ -176,13 +176,13 @@ class WorksStyleOne extends Component {
                                 <div className="content text-center">
                                     <span>
                                         <Link href="/portfolio">
-                                            <a>UI/UX Design</a>
+                                            <a>Suffola</a>
                                         </Link>
                                     </span>
 
                                     <h3>
                                         <Link href="/portfolio-details">
-                                            <a>Redesigning the New York times app</a>
+                                            <a>Influencer Marketing</a>
                                         </Link>
                                     </h3>
 
@@ -198,13 +198,13 @@ class WorksStyleOne extends Component {
                                 <div className="content text-center">
                                     <span>
                                         <Link href="/portfolio">
-                                            <a>Graphic Design</a>
+                                            <a>Trade Smart</a>
                                         </Link>
                                     </span>
 
                                     <h3>
                                         <Link href="/portfolio-details">
-                                            <a>Design the Web, Mobile, and eCommerce</a>
+                                            <a>Performance Marketing</a>
                                         </Link>
                                     </h3>
 
@@ -220,13 +220,13 @@ class WorksStyleOne extends Component {
                                 <div className="content text-center">
                                     <span>
                                         <Link href="/portfolio">
-                                            <a>Bootstrap</a>
+                                            <a>Keshmax</a>
                                         </Link>
                                     </span>
 
                                     <h3>
                                         <Link href="/portfolio-details">
-                                            <a>Redesigning the New York times app</a>
+                                            <a>Testimonal Videos</a>
                                         </Link>
                                     </h3>
 
