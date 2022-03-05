@@ -9,24 +9,24 @@ class FunFacts extends Component {
                         <div className="col-lg-4 col-sm-6">
                             <div className="funfact-card">
                                 <i className="pe-7s-like"></i>
-                                <h3>799 <span>k</span></h3>
-                                <p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete</p>
+                                <h3>200+<span>k</span></h3>
+                                <p>Completed projects with utmost success and satisfaction.</p>
                             </div>
                         </div>
 
                         <div className="col-lg-4 col-sm-6">
                             <div className="funfact-card">
                                 <i className="pe-7s-diamond"></i>
-                                <h3>499 <span>k</span></h3>
-                                <p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete</p>
+                                <h3>100K+<span>k</span></h3>
+                                <p>Influencer Family</p>
                             </div>
                         </div>
 
                         <div className="col-lg-4 col-sm-6">
                             <div className="funfact-card">
                                 <i className="pe-7s-portfolio"></i>
-                                <h3>990 <span>k</span></h3>
-                                <p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete</p>
+                                <h3>100+ <span>k</span></h3>
+                                <p>Satisfied Brand Collaborations</p>
                             </div>
                         </div>
                     </div>
