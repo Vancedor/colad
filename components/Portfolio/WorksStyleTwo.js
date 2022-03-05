@@ -129,6 +129,30 @@ class WorksStyleTwo extends Component {
                                     </div>
                                 </div>
                             </div>
+            
+            <div className="col-lg-4 col-sm-6">
+                                <div className="work-card">
+                                    <img src="/images/works/work4.jpg" alt="image" />
+
+                                    <div className="content">
+                                        <span>
+                                            <Link href="/portfolio-details">
+                                                <a>Seer Secret</a>
+                                            </Link>
+                                        </span>
+
+                                        <h3>
+                                            <Link href="/portfolio-details">
+                                                <a>Provided Youtuber</a>
+                                            </Link>
+                                        </h3>
+
+                                        <Link href="/portfolio-details">
+                                            <a className="custom-btn">View Details</a>
+                                        </Link>
+                                    </div>
+                                </div>
+                            </div>
 
                             <div className="col-lg-4 col-sm-6">
                                 <div className="work-card">
