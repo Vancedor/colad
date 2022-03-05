@@ -9,7 +9,7 @@ class WorksStyleTwo extends Component {
                     <div className="container">
                         <div className="section-title">
                             <h2>Our All Projects</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                            <p>Projects mentioned are very close to our heart, and we are very thankfull to each one...</p>
                         </div>
 
                         <div className="row justify-content-center">
@@ -20,13 +20,36 @@ class WorksStyleTwo extends Component {
                                     <div className="content">
                                         <span>
                                             <Link href="/portfolio-details">
-                                                <a>SEO Optimization</a>
+                                                <a>Rizzle</a>
                                             </Link>
                                         </span>
 
                                         <h3>
                                             <Link href="/portfolio-details">
-                                                <a>Designing a better cinema experience</a>
+                                                <a>We has provided PGC Creator</a>
+                                            </Link>
+                                        </h3>
+
+                                        <Link href="/portfolio-details">
+                                            <a className="custom-btn">View Details</a>
+                                        </Link>
+                                    </div>
+                                </div>
+                            </div>
+            <div className="col-lg-4 col-sm-6">
+                                <div className="work-card">
+                                    <img src="/images/works/work4.jpg" alt="image" />
+
+                                    <div className="content">
+                                        <span>
+                                            <Link href="/portfolio-details">
+                                                <a>Amazon</a>
+                                            </Link>
+                                        </span>
+
+                                        <h3>
+                                            <Link href="/portfolio-details">
+                                                <a>Provided Fashion Influencers</a>
                                             </Link>
                                         </h3>
 
@@ -43,13 +66,13 @@ class WorksStyleTwo extends Component {
                                     <div className="content">
                                         <span>
                                             <Link href="/portfolio-details">
-                                                <a>Digital Marketing</a>
+                                                <a>Theoly</a>
                                             </Link>
                                         </span>
 
                                         <h3>
                                             <Link href="/portfolio-details">
-                                                <a>Building design process within teams</a>
+                                                <a>Fashion Influencers & Gievaways</a>
                                             </Link>
                                         </h3>
 
@@ -67,13 +90,36 @@ class WorksStyleTwo extends Component {
                                     <div className="content">
                                         <span>
                                             <Link href="/portfolio-details">
-                                                <a>Keyword Targeting</a>
+                                                <a>Nutrien Life</a>
                                             </Link>
                                         </span>
 
                                         <h3>
                                             <Link href="/portfolio-details">
-                                                <a>How intercom brings play into their design process</a>
+                                                <a>Influencer Marketing & Indian Amazon Marketing</a>
+                                            </Link>
+                                        </h3>
+
+                                        <Link href="/portfolio-details">
+                                            <a className="custom-btn">View Details</a>
+                                        </Link>
+                                    </div>
+                                </div>
+                            </div>
+            <div className="col-lg-4 col-sm-6">
+                                <div className="work-card">
+                                    <img src="/images/works/work4.jpg" alt="image" />
+
+                                    <div className="content">
+                                        <span>
+                                            <Link href="/portfolio-details">
+                                                <a>Baazi Group</a>
+                                            </Link>
+                                        </span>
+
+                                        <h3>
+                                            <Link href="/portfolio-details">
+                                                <a>Twitter Marketing</a>
                                             </Link>
                                         </h3>
 
@@ -91,13 +137,13 @@ class WorksStyleTwo extends Component {
                                     <div className="content">
                                         <span>
                                             <Link href="/portfolio-details">
-                                                <a>Email Marketing</a>
+                                                <a>BAN Labs</a>
                                             </Link>
                                         </span>
 
                                         <h3>
                                             <Link href="/portfolio-details">
-                                                <a>Stuck with to-do list, I created a new app for myself</a>
+                                                <a>Use Amazon Services</a>
                                             </Link>
                                         </h3>
 
@@ -115,13 +161,13 @@ class WorksStyleTwo extends Component {
                                     <div className="content">
                                         <span>
                                             <Link href="/portfolio-details">
-                                                <a>Marketing & Reporting</a>
+                                                <a>Moj</a>
                                             </Link>
                                         </span>
 
                                         <h3>
                                             <Link href="/portfolio-details">
-                                                <a>Examples of different types of sprints</a>
+                                                <a>Creater PR through MEME marketing</a>
                                             </Link>
                                         </h3>
 
@@ -139,13 +185,13 @@ class WorksStyleTwo extends Component {
                                     <div className="content">
                                         <span>
                                             <Link href="/portfolio-details">
-                                                <a>Development</a>
+                                                <a>Chingari</a>
                                             </Link>
                                         </span>
 
                                         <h3>
                                             <Link href="/portfolio-details">
-                                                <a>Redesigning the New York times app</a>
+                                                <a>Performance Marketing</a>
                                             </Link>
                                         </h3>
 
