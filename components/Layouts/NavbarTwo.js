@@ -41,7 +41,7 @@ class NavbarTwo extends Component {
                         <div className="container-fluid">
                             <Link href="/">
                                 <a className="navbar-brand">
-                                    <img src="/images/logo.png" className="black-logo" alt="logo" />
+                                    <img src="/images/logo-black.png" className="black-logo" alt="logo" />
                                     <img src="/images/logo-white.png" className="white-logo" alt="logo" />
                                 </a>
                             </Link>
@@ -61,7 +61,7 @@ class NavbarTwo extends Component {
                                 <span className="icon-bar bottom-bar"></span>
                             </button>
 
-                            <div className={classOne} id="navbarSupportedContent">
+                            <div id="navbarSupportedContent">
                                 <ul className="navbar-nav">
                                     <li className="nav-item">
                                         <Link href="/" activeClassName="active">
