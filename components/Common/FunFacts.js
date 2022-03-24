@@ -9,7 +9,7 @@ class FunFacts extends Component {
                         <div className="col-lg-4 col-sm-6">
                             <div className="funfact-card">
                                 <i className="pe-7s-like"></i>
-                               <h3>200 <span>k+</span></h3>
+                               <h3>200K <span>+</span></h3>
                                 <p>Completed projects with utmost success and satisfaction.</p>
                             </div>
                         </div>
@@ -17,7 +17,7 @@ class FunFacts extends Component {
                         <div className="col-lg-4 col-sm-6">
                             <div className="funfact-card">
                                 <i className="pe-7s-diamond"></i>
-                                <h3>100 <span>k+</span></h3>
+                                <h3>100K <span>+</span></h3>
                                 <p>Influencer Family</p>
                             </div>
                         </div>
