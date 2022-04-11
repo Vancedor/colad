@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Link from 'next/link';
 
-class FunFacts extends Component {
+class FunFacts2 extends Component {
     render() {
         return (
             <section className="funfacts-area ptb-100 bg-fcfbfb">
@@ -63,4 +63,4 @@ class FunFacts extends Component {
     }
 }
 
-export default FunFacts;
+export default FunFacts2;
