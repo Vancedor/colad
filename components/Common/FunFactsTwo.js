@@ -8,14 +8,14 @@ class FunFactsTwo extends Component {
                 <div className="container">
                     <div className="section-title">
                         <h2>We always try to understand users expectation</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <p>Numbers speaks well then the words...</p>
                     </div>
 
                     <div className="row justify-content-center">
                         <div className="col-lg-3 col-sm-6">
                             <div className="funfact">
                                 <i className="icofont-checked"></i>
-                                <h3>980+</h3>
+                                <h3>200K+</h3>
                                 <p>Completed Projects</p>
                             </div>
                         </div>
@@ -23,15 +23,15 @@ class FunFactsTwo extends Component {
                         <div className="col-lg-3 col-sm-6">
                             <div className="funfact">
                                 <i className="icofont-ui-love"></i>
-                                <h3>950+</h3>
-                                <p>Happy Clients</p>
+                                <h3>100K+</h3>
+                                <p>Influencer Family</p>
                             </div>
                         </div>
 
                         <div className="col-lg-3 col-sm-6">
                             <div className="funfact">
                                 <i className="icofont-tasks"></i>
-                                <h3>780+</h3>
+                                <h3>100+</h3>
                                 <p>Ongoing Projects</p>
                             </div>
                         </div>
