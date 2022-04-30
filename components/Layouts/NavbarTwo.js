@@ -61,7 +61,7 @@ class NavbarTwo extends Component {
                                 <span className="icon-bar bottom-bar"></span>
                             </button>
 
-                 {/*              <div id="navbarSupportedContent">
+                           <div id="navbarSupportedContent">
                                 <ul className="navbar-nav">
                                     <li className="nav-item">
                                         <Link href="/" activeClassName="active">
@@ -332,7 +332,7 @@ class NavbarTwo extends Component {
                     </nav>
                 </div>
             </>  
-            */}
+           
         );  
         
     }
