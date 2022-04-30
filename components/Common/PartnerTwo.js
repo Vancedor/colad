@@ -125,7 +125,7 @@ class PartnerTwo extends Component {
                                 <div className="d-table">
                                     <div className="d-table-cell">
                                         <a href="#" target="_blank">
-                                            <img src="/images/partners/partner10.svg" alt="image" />
+                                            <img src="/images/partners/partner10.SVG" alt="image" />
                                         </a>
                                     </div>
                                 </div>
