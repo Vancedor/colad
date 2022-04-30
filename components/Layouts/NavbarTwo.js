@@ -76,7 +76,7 @@ class NavbarTwo extends Component {
                                                    <a className="nav-link">Default Home</a>
                                                </Link>
                                             
-                                                <Link href="/creative-agency" activeClassName="active">
+{/*     <Link href="/creative-agency" activeClassName="active">
                                                     <a className="nav-link">Creative Agency</a>
                                                 </Link>
                                           
@@ -102,7 +102,7 @@ class NavbarTwo extends Component {
 
                                                 <Link href="/startup-agency" activeClassName="active">
                                                     <a className="nav-link">Startup Agency</a>
-                                                </Link>
+                                                </Link>   */}
                                             </li>
 
                                             <li className="nav-item">
