@@ -52,7 +52,7 @@ class NavbarTwo extends Component {
                                 className={classTwo}
                                 type="button" 
                                 data-toggle="collapse" 
-                                data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" 
+                               // data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" 
                                 aria-expanded="false" 
                                 aria-label="Toggle navigation"
                             >
@@ -72,13 +72,13 @@ class NavbarTwo extends Component {
 
                                         <ul className="dropdown-menu mega-dropdown-menu">
                                             <li className="nav-item">
-                                            //    <Link href="#" activeClassName="active">
-                                                 //   <a className="nav-link">Default Home</a>
-                                             //   </Link>
+                                               <Link href="#" activeClassName="active">
+                                                   <a className="nav-link">Default Home</a>
+                                               </Link>
                                             
-                                             //   <Link href="/creative-agency" activeClassName="active">
-                                               //     <a className="nav-link">Creative Agency</a>
-                                              //  </Link>
+                                                <Link href="/creative-agency" activeClassName="active">
+                                                    <a className="nav-link">Creative Agency</a>
+                                                </Link>
                                           
                                                 <Link href="/it-agency" activeClassName="active">
                                                     <a className="nav-link">IT Agency</a>
