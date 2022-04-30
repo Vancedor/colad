@@ -4,7 +4,6 @@ import MainBanner from '../components/PortfolioAgencyTwo/MainBanner';
 import OurWorks from '../components/PortfolioAgencyTwo/OurWorks';
 import Feedback from '../components/Common/Feedback';
 import TeamStyleThree from '../components/Common/TeamStyleThree';
-import Newsletter from '../components/Common/Newsletter';
 import Footer from '../components/Layouts/Footer';
 
 class PortfolioAgency2 extends Component {
@@ -20,10 +19,6 @@ class PortfolioAgency2 extends Component {
                 <Feedback />
                 
                 <TeamStyleThree />
-                
-                <div className="pb-100">
-                    <Newsletter />
-                </div>
 
                 <Footer />
             </>
